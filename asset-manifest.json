@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/la-musica/static/css/main.5f361e03.chunk.css",
+    "main.js": "/la-musica/static/js/main.4344afdb.chunk.js",
+    "main.js.map": "/la-musica/static/js/main.4344afdb.chunk.js.map",
+    "runtime-main.js": "/la-musica/static/js/runtime-main.b225adb9.js",
+    "runtime-main.js.map": "/la-musica/static/js/runtime-main.b225adb9.js.map",
+    "static/js/2.548f6b9d.chunk.js": "/la-musica/static/js/2.548f6b9d.chunk.js",
+    "static/js/2.548f6b9d.chunk.js.map": "/la-musica/static/js/2.548f6b9d.chunk.js.map",
+    "index.html": "/la-musica/index.html",
+    "precache-manifest.b6032fcaf84450c16d52d2f0e0567824.js": "/la-musica/precache-manifest.b6032fcaf84450c16d52d2f0e0567824.js",
+    "service-worker.js": "/la-musica/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/la-musica/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.548f6b9d.chunk.js.LICENSE.txt": "/la-musica/static/js/2.548f6b9d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/la-musica/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b225adb9.js",
+    "static/js/2.548f6b9d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4344afdb.chunk.js"
+  ]
+}
